@@ -10,6 +10,7 @@ Marlin is an optimized firmware for [RepRap 3D printers](http://reprap.org/) bas
 ## This version of Marlin is adapted for Anet A8 with mother board MKS Gen L and TMC2208
 
 Work perfectly with Octoprint, you can upgrade the version of Marlin with Octoprint, still work very well. Enjoy it :)
+There is two version one with BL touch, and one without (only with limit switch sensor)
 
 Baptiste Ochlafen
 

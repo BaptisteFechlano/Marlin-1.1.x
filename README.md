@@ -7,6 +7,12 @@ Marlin is an optimized firmware for [RepRap 3D printers](http://reprap.org/) bas
 [![Travis Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Flattr Us!](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 
+## This version of Marlin is adapted for Anet A8 with mother board MKS Gen L and TMC2208
+
+Work perfectly with Octoprint, you can upgrade the version of Marlin with Octoprint, still work very well. Enjoy it :)
+
+Baptiste Ochlafen
+
 ## Marlin 1.1.x
 
 This 1.1.x Release Branch contains the latest tagged version of Marlin (currently 1.1.8 – December 2017).
